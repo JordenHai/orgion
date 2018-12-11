@@ -1,3 +1,3 @@
 # pycharmProject
 python学习
-这是一份python学习目录
+这是一份蟒蛇学习目录

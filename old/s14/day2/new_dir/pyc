@@ -1,0 +1,22 @@
+什么是pyc
+如果是解释型语言 c应该是comp
+
+这个过程分为两种一个为编译 一个为解释
+
+java 是先去编译 再去解释
+
+python和java c#一样 是基于虚拟机的语言
+
+我们在命令行中激活了python的解释器，告诉解释器：你要开始工作了
+
+javac hello.java
+java hello
+
+python也是类似的
+
+python的运行过程
+pycodeobject才是真正的编译结果 写回pyc
+
+我们如果改变了代码，会比对时间
+
+小数 不完全是浮点
